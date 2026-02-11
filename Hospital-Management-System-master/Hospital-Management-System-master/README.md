@@ -1,7 +1,7 @@
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
-Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
+Live Demo : [Hospital Management System - 000webhost by sagar yalagude]()
 
 ## Need to work on:
 
@@ -199,7 +199,7 @@ This module allows admin to perform five major operations:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)](https://star-history.com/#kishan0725/Hospital-Management-System&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)]
   
 
 
