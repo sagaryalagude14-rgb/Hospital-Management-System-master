@@ -199,7 +199,7 @@ This module allows admin to perform five major operations:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)]
+[![Star History Chart]
   
 
 
